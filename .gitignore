@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+env
+.env
+nlp_stackoverflow_data
+.jupyter_ystore.db
